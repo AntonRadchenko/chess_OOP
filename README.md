@@ -8,7 +8,7 @@
 ### Установка:
 1. Убедитесь, что у вас установлен Python 3.
 2. Клонируйте репозиторий:
-   git clone https://github.com/yourusername/chess-and-checkers.git
+   git clone https://github.com/AntonRadchenko/chess_OOP
    cd chess-and-checkers
 
 ### Использование:
