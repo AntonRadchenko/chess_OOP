@@ -49,8 +49,9 @@
 1. (Сложность 1): Вывод фигур ходящего игрока, находящиеся под угрозой + шах короля
 <img width="356" alt="Снимок экрана 2025-03-18 в 01 17 38" src="https://github.com/user-attachments/assets/488ef81a-3e57-4afd-85dd-8e0fdeebd0b1" />
 <img width="359" alt="Снимок экрана 2025-03-18 в 01 18 11" src="https://github.com/user-attachments/assets/3bd45505-ac67-4912-9154-824f111ae947" />
+
 2. (Сложность 1): Реализация 3-х новых фигур: LiteRook, Jumpman и Werewolf
-<img width="254" alt="Снимок экрана 2025-03-18 в 01 21 46" src="https://github.com/user-attachments/assets/da5c11aa-90da-4171-87f3-137a963f1f1a" />
+<img width="254" alt="Снимок экрана 2025-03-18 в 01 21 46" src="https://github.com/user-attachments/assets/da5c11aa-90da-4171-87f3-137a963f1f1a" />\n
 (LiteRook также имеет усложнение: превращение в Rook при достижении противоположного края игрового поля)
 3. (Сложность 1): Сложные правила для пешки: на картинке демострация одного из них (превращение в другую фигуру при достижении противоположного края игрового поля):
 ![CleanShot 2025-03-18 at 01 25 48@2x](https://github.com/user-attachments/assets/323d7532-36fa-415d-9e61-751c2ccf5b60)
