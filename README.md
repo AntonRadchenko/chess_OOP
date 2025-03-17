@@ -9,6 +9,7 @@
 1. Убедитесь, что у вас установлен Python 3.
 2. Клонируйте репозиторий:
    git clone https://github.com/AntonRadchenko/chess_OOP.git
+3. Перейдите в папку:
    cd chess-and-checkers
 
 ### Использование:
