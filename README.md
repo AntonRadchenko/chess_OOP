@@ -10,7 +10,7 @@
 2. Клонируйте репозиторий:
    git clone https://github.com/AntonRadchenko/chess_OOP.git
 3. Перейдите в папку:
-   cd chess-and-checkers
+   cd chess_OOP
 
 ### Использование:
 1. Запустите игру:
