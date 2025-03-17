@@ -26,6 +26,7 @@ class Game:
             print('|', nums_coords[row], end='\n')  # Завершение строки
         print('  ', '-' * 17)  # Разделительная линия
         print('   ', *letters_coords, sep=' ', end='')  # Вывод буквенных координат
+        print()
         
     def get_figure(self, row, col):
         """Возвращает фигуру на указанной позиции.
