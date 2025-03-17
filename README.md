@@ -24,6 +24,7 @@
 
 Пример вывода:
 
+<img width="355" alt="Снимок экрана 2025-03-18 в 01 00 49" src="https://github.com/user-attachments/assets/0d937e2f-8e30-4dad-8a73-05efa9d2b4de" />
 
 
 Ход белых
